@@ -1,0 +1,23 @@
+commit 1edce38e8282e1d5a44410ff1f7ec0ff02c9a17e
+Author: MarcusCaro <marcus_caro@mines.edu>
+Date:   Wed Sep 30 12:57:00 2026 -0600
+
+    Final Changes
+
+commit 1b12222197654b74245cb2c22053e927b105f2f9
+Author: MarcusCaro <marcus_caro@mines.edu>
+Date:   Wed Sep 30 11:24:48 2026 -0600
+
+    Completed Student.java and Part 1 ScoreTrakker
+
+commit ed1bd56e091746b16a72ae738c08a60650cc0a59
+Author: MarcusCaro <marcus_caro@mines.edu>
+Date:   Wed Sep 30 11:06:35 2026 -0600
+
+    Skeleton Code
+
+commit 306066e37b1e14a9d8e7fe9d9f1d9ebea5442608
+Author: MarcusCaro <142929374+MarcusCaro@users.noreply.github.com>
+Date:   Wed Sep 30 10:40:41 2026 -0600
+
+    Initial commit
